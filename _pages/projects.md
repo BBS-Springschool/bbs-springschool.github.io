@@ -14,7 +14,7 @@ You have a good idea and want to work on it ,possibly, together with others? Sub
 Thank you for your patience!
 
 
-## Already submitted projects:
+## Already submitted projects:  
 
 {% assign number_printed = 0 %}
 {% for project in site.data.projectlist %}

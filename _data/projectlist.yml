@@ -6,24 +6,7 @@
     mail: Florian.Fischmeister@gmail.com
   link:
     url: http://bbs-springschool.github.io
-    display: Link zur Springschool
-    github: https://github.com/BBS-Springschool
-    mattermost:  ad
-    channel: Zoom
-  highlight: 1
-
-
-- title: "Brain / Behaviour / Society Springschool Page"
-  image: dummy.png
-  description: We plan to setup a general purpose homepage for the springschool using Gitub-Pages, Jekyll and a simple template. 
-  authors: 
-    name: Florian Ph.S Fischmeister
-    mail: Florian.Fischmeister@gmail.com
-    twitter: \@FPFischmeister
-  link:
-    url: 
     github: https://github.com/BBS-Springschool
     mattermost: 
     channel: Zoom
-    channel-link: http:/zoom.us
   highlight: 1
