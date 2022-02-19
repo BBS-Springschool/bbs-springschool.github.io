@@ -1,0 +1,27 @@
+- name: Florian Ph.S Fischmeister
+  photo: dummy_photo.jpg
+  role: Initiator and chair of the BBS Springschool 2022
+  university: University of Graz
+  department:  Institute of Psychologie
+  email: Florian.Fischmeister@uni-graz.at
+  number_info: 1
+  info1: His research topics include neuroplasticity and treatment related effects in chemosensory perception and resting states in particular. Recently, he got attracted by the interdisciplinary research field Microbiota-Gut-Brain axis and started to work on longitudinal functional and structural brain changes induces by probiotic and symbiotic intervention and their influence on the reward-system and the resting brain.
+
+- name: Alexander Goritschnig
+  photo: dummy_photo.jpg
+  role: Initiator and chair of the BBS Springschool 2022
+  university: University of Graz
+  department:  Department
+  email: Alexander.Goritschnig@uni-graz.at
+  number_info: 1
+  info1: Some Info
+
+
+- name: Guilherme Wood
+  photo: dummy_photo.jpg
+  role: Initiator and chair of the BBS Springschool 2022
+  university: University of Graz
+  department: Institute of Psychology
+  email: Guilherme.Wood@uni-graz.at
+  number_info: 1
+  info1: Some Info
