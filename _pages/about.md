@@ -6,10 +6,15 @@ sitemap: false
 permalink: /about/
 ---
 
+# All about the Springschool
+
 **“Brain / Behaviour / Society Springschool”** represents a collaborative workshop that tries to combine elements of Hackathons, Unconferences and Educationals. For this school we took the ideas and concepts of [BrainHack](https:/brainhack.org) and now we want to extend it to all scientific disciplines within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. Together, we want to bring scientists of all faculties together to work on one goal together. This common goal represents the respective topic of the Brain / Behaviour / Society Springschool.  
 
 This 2022 edition marks the of the **“Brain / Behaviour / Society Spring School”** we hope to settle the starting point for a possible future series of variant themes and topics. 
 
+
+
+####
 These collaborative workshops combine elements of Hackathons and Unconferences, with a variety of educational activities, to accelerate the adaptation of data science and computational methods in Neuroscience. Much of the conference is allocated to open working time during which attendees are encouraged to work together in interdisciplinary teams on projects that utilize computational techniques to solve problems in neuroscience. Periodic unconference sessions provide an opportunity for attendees to share their expertise on topics that become relevant through the course of the event. In parallel to these activities, an educational track provide hands-on tutorials on relevant tools such as python, github, cloud computing, and innovative statistical methods.
 
 Following the tradition of open science and joint workshops, we want to revive the the concept of *Springschools*, combine it with the spirit of *[Brainhacks](https://brainhack.org/)* and open it to all interested students to bridge all scientific disciplines. This school aims at combining ideas of a traditional hackathon with educational elements and dedicated thematic talks. 
