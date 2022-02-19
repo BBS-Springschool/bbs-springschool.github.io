@@ -1,5 +1,7 @@
-- name: Florian Ph.S Fischmeister
+- firstname: Florian Ph.S
+  lastname: Fischmeister
   photo: dummy_photo.jpg
+  url: https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=727ECD97B44EBA2A&pPersonenGruppe=3
   role: Initiator and chair of the BBS Springschool 2022
   university: University of Graz
   department:  Institute of Psychologie
@@ -7,7 +9,8 @@
   number_info: 1
   info1: His research topics include neuroplasticity and treatment related effects in chemosensory perception and resting states in particular. Recently, he got attracted by the interdisciplinary research field Microbiota-Gut-Brain axis and started to work on longitudinal functional and structural brain changes induces by probiotic and symbiotic intervention and their influence on the reward-system and the resting brain.
 
-- name: Alexander Goritschnig
+- firstname: Alexander Thomas
+  lastname: Goritschnig
   photo: dummy_photo.jpg
   role: Initiator and chair of the BBS Springschool 2022
   university: University of Graz
@@ -17,7 +20,8 @@
   info1: Some Info
 
 
-- name: Guilherme Wood
+- firstname: Guilherme
+  lastname: Wood
   photo: dummy_photo.jpg
   role: Initiator and chair of the BBS Springschool 2022
   university: University of Graz

@@ -5,31 +5,37 @@ excerpt: "Brain / Behaviour / Society Springschool."
 sitemap: false
 permalink: /
 ---
-Welcome to the first edition of the **“Brain / Behaviour / Society Springschool”** in Graz. Following the tradition of open science and joint workshops, we want to combine the the concept of a standard *Springschools*, with the spirit of *[Brainhacks](https://brainhack.org/)* and open it to all interested students within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. 
+Welcome to the first edition of the **“Brain / Behaviour / Society Springschool”** in Graz. Following the tradition of open science and joint workshops, we want to combine the the concept of a standard *Springschools*, with the spirit of *[Brainhacks](https://brainhack.org/)* and open it to all everybody interested in behaviour within the fields of medicine, cognitive science, biology, psychology, behaviorals and social sciences to name only few. 
 
-As such, we plan to combine open-hacking and unconference sessions with a learning track intermixed with featured talks unter the umbrella of one general topic
+As such, this *Springschool* will be a 4 day event that combines open-hacking and unconference sessions with learning tracks all intermixed with featured talks unter the umbrella of one general topic
 
 <center>
-<H2>“CHANGE: How to measure, detect, and quantify change reliably.”</H2>
+<H4>“CHANGE: How to measure, detect, and quantify change reliably.”</H4>
 </center> 
 
-This topcis inspired by the CoVID-pandemic that consistently changed the world, science, and society. 
+This topcis is inspired by the CoVID-pandemic that consistently changed the world, science, and society. Therefore, all projects and featured talks will be given by invited speakers to enlighten the global theme of “Change” either from the perspective of the brain, or from the point of view of behavior, or from a social point of view. In summary, this 2022 edition of the “Brain / Behaviour / Society Springschool” should represent the starting point of a long lasting series with variant themes and topics in the future. 
 
-### Venue and date:
+### Important date:
 
-- **5<sup>th</sup> - 8<sub>th</sub> of April 2022**
-- **[Unicorn Graz](https://unicorn-graz.at/)** see [here]({{ site.baseurl }}/downloads/Campusplan_Uni_Graz_2021.pdf) for a map of the Univerisity of Graz campus.
+- **1<sup>st</sup> of March Registration and project submission opens**
+- **1<sup>st</sup> of April Deadline to register and/or submit a project**
+- **5<sup>th</sup> - 8<sub>th</sub> of April 2022 Springschool**
+  
+### Location:
 
-Due to the CoVID-pandemic we have to restrict the number of participants on site. We therefore decided to 
+The Springschool we be proudly hosted by the **[Unicorn Graz](https://unicorn-graz.at/)**; see [here]({{ site.baseurl }}/downloads/Campusplan_Uni_Graz_2021.pdf) for a map of the University of Graz Campus. 
 
-Therefore, also due to the current CoVID-19 regulations at the [Unicorn Graz](https://unicorn-graz.at/) and the [University of Graz](https://uni-graz.at/), we have to ask everyone to register for the main event plus eventally for the different side events like talks or educationals. Additionally, all on-site participants will need to fulfill the CoVID-19 regulations put forward by the Austrian government.
+### CoVID-19 Safety 
 
+Due to the still ongoing CoVID-pandemic we have to restrict the number of participants on site. Therefore, also due to the current CoVID-19 regulations at the [Unicorn Graz](https://unicorn-graz.at/) and the [University of Graz](https://uni-graz.at/) we have to ask everyone to register for the main event plus eventally for the different side events like talks or educationals. 
 
+All on-site participants will need to fulfill the CoVID-19 regulations put forward by the Austrian government which are subject to change. Please see the CoVID-19 regulations by the [University of Graz](https://covid-19.uni-graz.at/en/) and the [Austrian Government](https://www.sozialministerium.at/en.html). Since we are well aware that not everyone will be able to join in person due to various causes, we will run the whole event in hybrid format. 
 
+Please [contact us]({{ site.baseurl }}/contact) for further details.
 
 ### Acknowledgements
 
-We are grateful for the support and funding from the [University of Graz](https://www.uni-graz.at), the [Complexity of LIfe in Basic Research and Innovation (COLIBRI)](https://colibri.uni-graz.at/en/) and the [NeuroImaging-Lab Graz](https://neuroimaging.uni-graz.at)
+We are grateful for the support and funding from the [University of Graz](https://www.uni-graz.at), the [Complexity of LIfe in Basic Research and Innovation (COLIBRI)](https://colibri.uni-graz.at/en/) and the [NeuroImaging-Lab Graz](https://neuroimaging.uni-graz.at).
 
 <figure class="fourth">
   <img class="padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UniGraz.png" style="height: 90px">

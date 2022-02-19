@@ -18,8 +18,8 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/committee_pic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <img id="{{ member.lastname }}" src="{{ site.url }}{{ site.baseurl }}/images/committee_pic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.firstname }} {{ member.lastname }}</h4>
   <i> {{ member.position }}<br>
       {{ member.university }}<br>
       {{ member.department }}<br>
@@ -56,7 +56,9 @@ permalink: /team/
   <li> {{ member.info4 }} </li>
   <li> {{ member.info5 }} </li>
   {% endif %}
-
+  {% if member.url %}
+  <li> <a href="{{ member.url }}">See webpage</a></li>
+  {% endif %}
   </ul>
 </div>
 
