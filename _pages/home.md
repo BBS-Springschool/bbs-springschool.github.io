@@ -1,11 +1,11 @@
 ---
 title: "BBS Springschool"
 layout: homelay
-excerpt: "Brain / Behaviour / Society Springschool."
+excerpt: "Brain, Behaviour & Society Springschool."
 sitemap: false
 permalink: /
 ---
-Welcome to the first edition of the **“Brain / Behaviour / Society Springschool”** in Graz. Following the tradition of open science and joint workshops, we want to combine the the concept of a standard *Springschools* with the spirit of *[Brainhacks](https://brainhack.org/)* and open it to everybody interested in behavior within the fields of medicine, cognitive science, biology, psychology, behavioral and social sciences to name only few. 
+Welcome to the first edition of the **{{ site.title }}** hosted as a COLIBRI Focus Workshop in Graz. Following the tradition of open science and joint workshops, we want to combine the the concept of a standard *Springschools* with the spirit of *[Brainhacks](https://brainhack.org/)* and open it to everybody interested in behavior within the fields of medicine, cognitive science, biology, psychology, behavioral and social sciences to name only few. 
 
 As such, this *springschool* will be a 4 day event that combines open-hacking and unconference sessions with learning tracks all intermixed with featured talks under the umbrella of one general topic
 
@@ -42,5 +42,3 @@ We are grateful for the support and funding from the [University of Graz](https:
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
-
-

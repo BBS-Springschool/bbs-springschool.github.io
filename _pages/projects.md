@@ -38,11 +38,11 @@ Thank you for your patience!
   <center>
   <strong>
   {% if project.link.url %}<a href="{{ project.link.url }}">Project site</a>{% endif %}
-  {% if project.link.url & project.link.github %} | {% endif %}
+  {% if project.link.url and project.link.github %} | {% endif %}
   {% if project.link.github %}<a href="{{ project.link.github }}">Github site</a>{% endif %}
-  {% if project.link.url & project.link.mattermost %} | {% endif %}
+  {% if project.link.url and project.link.mattermost %} | {% endif %}
   {% if project.link.mattermost %} <a href="{{ project.link.mattermost }}">Mattermost</a>{% endif %}
-  {% if project.link.channel & project.link.mattermost %} | {% endif %}
+  {% if project.link.channel and project.link.mattermost %} | {% endif %}
   {% if project.link.channel %} <a href="{{ project.link.channel-ling }}">{{ project.link.channel }}</a>{% endif %}
   </strong>
   </center>

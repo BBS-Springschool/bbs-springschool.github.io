@@ -8,7 +8,7 @@ permalink: /about/
 
 # All about the Springschool
 
-The **“Brain / Behaviour / Society Springschool”** represents a unique collaborative workshop or conference that tries to combine elements of Hackathons, Unconferences, and educationals. For this, we took the ideas and concepts of [BrainHack]( https://brainhack.org/about.html) and extend it to all scientific disciplines within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. In short we want to bring scientists of all faculties together to work on innovative projects and follow one common goal that represents the  topic of this Springschool.  
+The **{{ site.title }}** represents a unique collaborative workshop or conference that tries to combine elements of Hackathons, Unconferences, and educationals. For this, we took the ideas and concepts of [BrainHack]( https://brainhack.org/about.html) and extend it to all scientific disciplines within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. In short we want to bring scientists of all faculties together to work on innovative projects and follow one common goal that represents the  topic of this Springschool.  
 
 
 # Some key points
