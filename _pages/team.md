@@ -25,7 +25,7 @@ permalink: /team/
       {{ member.department }}<br>
       email: {{ member.email }}
   </i>
-  <ul class="no-bullets" style="overflow: hidden">
+  <ul class="pull-left no-bullets" style="overflow: hidden">
 
   {% if member.number_info == 1 %}
   <li> {{ member.info1 }} </li>
