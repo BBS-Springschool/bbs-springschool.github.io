@@ -8,7 +8,7 @@ permalink: /about/
 
 # All about the Springschool
 
-The **“Brain / Behaviour / Society Springschool”** represents a unique collaborative workshop or conference that tries to combine elements of Hackathons, Unconferences, and Educationals. For this, we took the ideas and concepts of [BrainHack]( https://brainhack.org/about.html) and extend it to all scientific disciplines within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. In short we want to bring scientists of all faculties together to work on innovative projects and follow one common goal that represents the  topic of this Springschool.  
+The **“Brain / Behaviour / Society Springschool”** represents a unique collaborative workshop or conference that tries to combine elements of Hackathons, Unconferences, and educationals. For this, we took the ideas and concepts of [BrainHack]( https://brainhack.org/about.html) and extend it to all scientific disciplines within the field of neuroscience, cognitive science, biology, psychology and social sciences to name only few. In short we want to bring scientists of all faculties together to work on innovative projects and follow one common goal that represents the  topic of this Springschool.  
 
 
 # Some key points
@@ -29,11 +29,9 @@ We want to encourage participants from all scientific disciplines to join the ev
 - Projects can involve any stage of the scientific process, from data acquisition to analysis and documentation, as well as data  visualization and scientific publication. 
 - Projects can also be focused on creating tutorials or improving the documentation of a library/program, or even replicating a paper (and dockerize it!).
 
-Activities carried out during the Brain / Behaviour / Society Springschool can result in useful outputs for the scientific community. We highly encourage you to submit a project for this year’s edition. If you are in need of inspiration, have a look at the [project ideas]({{ site.url }}/projects) we have received so far, or check out the projects submitted to [Brainhack Global](https://brainhack.org/global2020/projects/).
+Activities carried out during the Brain / Behavior / Society Springschool can result in useful outputs for the scientific community. We highly encourage you to submit a project for this year’s edition. If you are in need of inspiration, have a look at the [project ideas]({{ site.url }}/projects) we have received so far, or check out the projects submitted to [Brainhack Global](https://brainhack.org/global2020/projects/).
 ## Further sources of information:
 
-Read the excellent ["How to Guideline for Leading and Attending to Brainhack Projects"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md) for further recommendations and suggestions. Although this guide was written with classic Brainhack project in mind it is nevertheless a great resource also for this Springschool.
+Read the excellent ["How to Guideline for Leading and Attending to Brainhack Projects"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md) for further recommendations and suggestions. Although this guide was written with a classic Brainhack in mind it is nevertheless a great resource also for this Springschool.
 
-Check out the very serious guide on ["Get a hold of your Donuts!"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md).
-
-
+Check out the very serious guide on ["Get a hold of your Donuts!"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md) which can save your life during the school &#128540;
