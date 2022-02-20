@@ -20,7 +20,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img id="{{ member.lastname }}" src="{{ site.url }}{{ site.baseurl }}/images/committee_pic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.firstname }} {{ member.lastname }}</h4>
-  <i> {{ member.position }}<br>
+  <i> {{ member.role }}<br>
       {{ member.university }}<br>
       {{ member.department }}<br>
       email: {{ member.email }}
