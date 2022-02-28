@@ -29,7 +29,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Dinner at a fancy place -->
-### Friday (7<sup>th</sup> of April):
+### Friday (8<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Unconference with Breakfast and Coffee
 - 09:00 &ndash; 12:00 Thematic Talks
 - 12:00 &ndash; 13:00 Wrap-Up and Project Presentations

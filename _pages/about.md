@@ -29,9 +29,12 @@ We want to encourage participants from all scientific disciplines to join the ev
 - Projects can involve any stage of the scientific process, from data acquisition to analysis and documentation, as well as data  visualization and scientific publication. 
 - Projects can also be focused on creating tutorials or improving the documentation of a library/program, or even replicating a paper (and dockerize it!).
 
+
 Activities carried out during the Brain / Behavior / Society Springschool can result in useful outputs for the scientific community. We highly encourage you to submit a project for this year’s edition. If you are in need of inspiration, have a look at the [project ideas]({{ site.url }}/projects) we have received so far, or check out the projects submitted to [Brainhack Global](https://brainhack.org/global2020/projects/){:target="_blank"}.
 ## Further sources of information:
 
 Read the excellent ["How to Guideline for Leading and Attending to Brainhack Projects"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md){:target="_blank"} for further recommendations and suggestions. Although this guide was written with a classic Brainhack in mind it is nevertheless a great resource also for this Springschool.
 
 Check out the very serious guide on ["Get a hold of your Donuts!"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md){:target="_blank"} which can save your life during the school &#128540;
+
+Learn from the advices and suggestions currated from the many previous years' [project leaders and attendees as the best practices](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md){:target="_blank"} of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time. 
