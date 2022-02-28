@@ -7,7 +7,7 @@ permalink: /
 ---
 Welcome to the first edition of the **{{ site.title }}** hosted as a **COLIBRI Focus Workshop in Graz** and **online throughout the world**. 
 
-Following the tradition of open science and joint workshops, we want to combine the the concept of a standard *Springschools* with the spirit of *[Brainhacks](https://brainhack.org/){:target="_blank"}* and open it to everybody interested in behavior within the fields of medicine, cognitive science, biology, psychology, behavioral and social sciences to name only few. 
+Following the tradition of open science and joint workshops, we want to combine the concept of a standard *Springschools* with the spirit of *[Brainhacks](https://brainhack.org/){:target="_blank"}* and open it to everybody interested in behavior within the fields of medicine, cognitive science, biology, psychology, behavioral and social sciences to name only few. 
 
 As such, this *springschool* will be a 4 day hybrid event that combines open-hacking and unconference sessions with learning tracks all intermixed with featured talks under the umbrella of one general topic
 

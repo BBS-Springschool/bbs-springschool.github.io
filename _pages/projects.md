@@ -11,10 +11,13 @@ permalink: /projects/
 
 You have a good idea and want to work on it ,possibly, together with others? Submit! Project submission for the BBS Springschool 2022 will open on the 1<sup>st</sup> of March. Do not hesitate to [contact us]({{ site.url }}/contact) if you are not sure about your project's fit, or don’t know how to fill in the submission form.
 
-Thank you for your patience!
+<center style="padding-top: 3em; padding-bottom: 3em;"><a  href="https://forms.gle/NHVhCj1MxFMgr9xi9" target="_blank"><button class="fs-1 btn btn-secondary btn-lg " type="submit" value="Send"><div class="h1">Submit a project</div></button></a></center>
 
 
-## Already submitted projects:  
+Following project submission, check out the advices and suggestions curated from the many previous years’ project leaders and attendees as the best practices of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time.
+
+
+<!-- ## Already submitted projects  
 
 {% assign number_printed = 0 %}
 {% for project in site.data.projectlist %}
@@ -62,4 +65,4 @@ Thank you for your patience!
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->

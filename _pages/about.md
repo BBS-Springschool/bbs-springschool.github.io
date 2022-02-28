@@ -20,7 +20,7 @@ Most of the time during this Springschool is allocated to open working time duri
 We want to encourage participants from all scientific disciplines to join the event with their mindset ready to collaborate on projects and hope it will also lead to a better chance of collaborating and networking. At the same time, we hope it will help project leaders get collaborators too.
 
 - Attendees are asked to commit to a project for the duration of Springschool.
-- Attendees can work on any of the projects on the [Brainhack Global website](https://brainhack.org/2021/11/28/global2021.html){:target="_blank"} or any other resource.
+- Attendees can work on any of the project found [here]({{ site.url }}/projects#Already-submitted-projects) or on the [Brainhack Global website](https://brainhack.org/2021/11/28/global2021.html){:target="_blank"} or any other resource.
 - Attendees will receive an email days before the event to select the project they will work on.
 - Projects are the perfect chance for active collaboration, networking and hands-on learning, both during and after the event.
 
@@ -37,4 +37,4 @@ Read the excellent ["How to Guideline for Leading and Attending to Brainhack Pro
 
 Check out the very serious guide on ["Get a hold of your Donuts!"](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md){:target="_blank"} which can save your life during the school &#128540;
 
-Learn from the advices and suggestions currated from the many previous years' [project leaders and attendees as the best practices](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md){:target="_blank"} of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time. 
+Learn from the advices and suggestions curated from the many previous years' [project leaders and attendees as the best practices](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md){:target="_blank"} of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time. 
