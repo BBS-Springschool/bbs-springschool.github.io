@@ -10,13 +10,16 @@ title: Brain, Behavior & Society Springschool
 email: bbsspringschool@gmail.com
 formspree: xknyrprn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the first edition of the Brain, Behavior & Society Springschool 
+  hosted as a COLIBRI Focus Workshop in Graz and online throughout the world.
+  Following the tradition of open science and joint workshops, we want to 
+  combine the concept of a standard spring schools with the spirit of Brainhacks 
+  and open it to everybody interested in behavior.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bbs-springschool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BBS-Springschool
 github_username:  BBS-Springschool
+mattermost_channel: bbs-springschool-2022
 
 include:
   - .htaccess
