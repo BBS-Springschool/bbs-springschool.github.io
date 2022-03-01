@@ -1,5 +1,5 @@
 - data: 01. March 2022
-  headline: "**Registration is OPEN!**<br> [Registration]({{ site.url}}/registration) for the BBS-Springschool just opened. Have a good project you want to work on? [Project submission]({{ site.url}}/projects) is open too!"
+  headline: "**Registration is OPEN!**<br> [Registration](https://bbs-springschool.github.io/schedule/) for the BBS-Springschool just opened. Have a good project you want to work on? [Project submission](https://bbs-springschool.github.io/projects/) is open too!"
 
 - date: 22. Februar 2022
   headline: "**We are on Twitter.** <br> As of today we have our very own Twitter handle [@BBSSpringschool](https://twitter.com/BBSSpringschool)"
