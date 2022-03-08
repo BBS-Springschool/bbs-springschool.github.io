@@ -6,7 +6,20 @@
   location:
     online: Link zu Termino
     place: Unicorn Graz, Schubertstraße 6a
-    time: Thu 7<sup>th</sup> April 9:00am (CEST)
+    time: Thu 7<sup>th</sup> April 9:00 (CEST)
+  highlight: 1
+  news: 
+  alertnews:  Registration for online access will open soon!
+
+- title: "Visualization and Visual Design"
+  image: Verena_Resch.jpg
+  description: Contrary to a common believe, design is not only about making things pretty. However, design is supposed to be functional (with beauty being a side effect). Let's explore what's the difference between design and decoration and how we can use fonts, colours and current design trends to our advantage.
+  authors: Verena Resch PhD
+  about: Verena Resch studied biochemistry and molecular biology at the Uni Graz. After finishing her PhD, she worked as a PostDoc in the Netherlands (TU Delft) and the Uni Graz. In 2016 she decided to leave academia and work as a freelance scientific designer making use of her second education in graphics and media design. Since 2021 she is in charge of the visual communication at the bioinformatics company Innophore GmbH.
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Tue 5<sup>th</sup> April 15:00 (CEST)
   highlight: 1
   news: 
   alertnews:  Registration for online access will open soon!
