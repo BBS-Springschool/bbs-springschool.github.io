@@ -30,7 +30,8 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 ### Thursday (7<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
-- 09:00 &ndash; 12:30 Reproducibility in Science
+- 09:00 &ndash; 12:30 <b>Reproducibility in Science</b>
+  - 09:00 "Research Data Management to make your data FAIR" Sarah Styeck ([details]({{ site.url }}/events#sstyreck))
 - 13:00 &ndash; 14:30 NIRS-Lab Graz (Lab-Visit and Demo)
 - 14:00 &ndash; 17:00 Life after Academia
 - 16:00 &ndash; 17:30 EEG/VR Lab Graz (Lab-Visit and Demo)

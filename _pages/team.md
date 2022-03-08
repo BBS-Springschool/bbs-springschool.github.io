@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Committee
+# Committee and organizing Team
 
 {% assign number_printed = 0 %}
 {% for member in site.data.committee %}

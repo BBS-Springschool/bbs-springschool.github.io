@@ -16,8 +16,8 @@
   university: University of Graz
   department:  Department
   email: Alexander.Goritschnig@uni-graz.at
-  number_info: 1
-  info1: Some Info
+  number_info: 0
+  info1: 
 
 - firstname: Guilherme
   lastname: Wood
@@ -26,5 +26,16 @@
   university: University of Graz
   department: Institute of Psychology
   email: Guilherme.Wood@uni-graz.at
+  number_info: 0
+  info1: 
+  
+- firstname: Sarah
+  lastname: Stryeck
+  photo: sstryeck.jpg
+  role: local organizer
+  university: Technical University of Graz
+  department: Institute of Interactive Systems and Data Science, Learning Analytics & Knowledge Services (LAKS) group 
+  email: sarah.stryeck@tugraz.at
   number_info: 1
-  info1: Some Info
+  info1: Sarah Stryeck is working as Senior Researcher at Know-Center, PostDoc at TU Graz and Data Steward in the Data Intelligence Initiative. Sarah did her PhD in Integrative Structural Biology and specialized afterwards in the topics data platforms and responsible AI.
+  

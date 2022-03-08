@@ -40,10 +40,10 @@ permalink: /events/
 We have planned educationals on a variety of topics such as science communication, design, and plain language, as well as data management, preregistration, and reproducibility. Furthermore, lab visits to the MRI-lab Graz, demos on how to collect data using NIRS, EEG, or VR. Further information will be summarized here.
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for event in site.data.events %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if event.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -51,13 +51,17 @@ We have planned educationals on a variety of topics such as science communicatio
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <eventtitle>{{ event.title }}</eventtitle>
+  <p>{{ event.description }}</p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/{{ event.image }}" class="img-responsive" width="25%" style="float: left" />
+  <eventauthor>{{ event.authors }}</eventauthor><br>
+  {{ event.about }}</p>
+  <p><strong>Date:</strong> {{ event.location.time }}<br>
+  <strong>Location:</strong> {{ event.location.place }}<br>
+  <strong><a href="{{ event.link.url }}">{{ event.link.display }}</a></strong></p>
+  
+  <p class="text-danger"><strong> {{ event.alertnews }}</strong></p>
+  <p> {{ event.news }}</p>
  </div>
 </div>
 
