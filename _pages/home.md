@@ -25,7 +25,7 @@ This topic is inspired by the CoVID-pandemic that consistently changed the world
   
 ### Location (in person version):
 
-The Springschool will be proudly hosted by the **[Unicorn Graz](https://unicorn-graz.at/){:target="_blank"}**. Unicorn is the startup & innovation hub recently founded by the University of Graz. Unicorn not only offers space for people with innovative strength, but also actively promotes networking and the initiation of joint projects. Because of this, Unicorn represents the perfect place for this very first Springschool. Please see [here]({{ site.baseurl }}/downloads/Campusplan_Uni_Graz_2021.pdf){:target="_blank"} for a map of the University of Graz Campus. General directions to the University of Graz can be found [here](https://www.uni-graz.at/en/contact-and-arriving/){:target="_blank"}.
+The Springschool will be proudly hosted by the **[Unicorn Graz](https://unicorn-graz.at/){:target="_blank"}**, Schubertstraße 6a, 8010 Graz, Austria. Unicorn is the startup & innovation hub recently founded by the University of Graz. Unicorn not only offers space for people with innovative strength, but also actively promotes networking and the initiation of joint projects. Because of this, Unicorn represents the perfect place for this very first Springschool. Please see [here]({{ site.baseurl }}/downloads/Campusplan_Uni_Graz_2021.pdf){:target="_blank"} for a map of the University of Graz Campus. General directions to the University of Graz can be found [here](https://www.uni-graz.at/en/contact-and-arriving/){:target="_blank"}.
 
 ### Online Version:
 
