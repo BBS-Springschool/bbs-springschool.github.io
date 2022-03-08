@@ -28,6 +28,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 09:00 &ndash; 11:00 MRI-Lab Graz (Lab-Visit and Demo)
 - 14:00 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
 <!-- “Agent based modelling” Marie Kapeller-->
+<!-- "Educational HPC"-->
 - 17:00 &ndash; 18:00 Unconference
 - 19:00 Keynote <b>"Explanation and prediction of cultural change"</b> by Igor Grossmann [(further information plus registration)]({{ site.url}}/igrossmann)
 
