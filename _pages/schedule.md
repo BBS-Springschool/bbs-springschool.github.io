@@ -15,8 +15,10 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 09:00 &ndash; 09:30 Welcome and Registration
 - 09:30 &ndash; 10:00 Introduction to Springschool and presentation of venue and projects
 - 10:00 &ndash; 17:00 Time to work on your projects
-- 13:00 &ndash; 17:00 Science Communication, Design and and Plain Language
+- 14:00 &ndash; 17:00 <b>Science Communication, Design and and Plain Language</b>
 <!-- “Scientific Writing - Do’s and Don’ts” Gayannee Kedia -->
+<!-- “Visualization and visual Communication” Verena Resch -->
+<!-- “Plain Language” Anna D'Errico-->
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Touristic twilight tour through Graz  -->
 

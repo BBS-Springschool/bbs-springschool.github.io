@@ -42,11 +42,10 @@ Please [contact us]({{ site.baseurl }}/contact) for further details.
 
 ### Acknowledgements
 
-We are grateful for the support and funding from the [University of Graz](https://www.uni-graz.at){:target="_blank"}, the [Complexity of LIfe in Basic Research and Innovation (COLIBRI)](https://colibri.uni-graz.at/en/){:target="_blank"} and the [NeuroImaging-Lab Graz](https://neuroimaging.uni-graz.at){:target="_blank"}.
+We are grateful for the support and funding from the [University of Graz](https://www.uni-graz.at){:target="_blank"}, the [Complexity of LIfe in Basic Research and Innovation (COLIBRI)](https://colibri.uni-graz.at/en/){:target="_blank"}, [BioTechMed-Graz](https://biotechmedgraz.at/en/){:tartet="_blank"} and the [NeuroImaging-Lab Graz](https://neuroimaging.uni-graz.at){:target="_blank"}.
 
-<figure class="fourth">
-  <img class="padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UniGraz.png" style="height: 90px">
-  <img class="padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Colibri.jpg" style="height: 90px">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
+<figure style="float: left" class="fourth">
+  <a href="https://www.uni-graz.at/en/" target="_blank"><img class="padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UniGraz.png" style="height: 90px"></a>
+  <a href="https://colibri.uni-graz.at/en/" target="_blank"><img class="padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Colibri.jpg" style="height: 90px"></a>
+  <a href="https://biotechmedgraz.at/en/" target="_blank"><img class="Padding" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BioTechMed.jpg" style="height: 90px"></a>
 </figure>
