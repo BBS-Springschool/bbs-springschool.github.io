@@ -16,7 +16,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 14:00 &ndash; 17:00 <b>Science Communication, Design and and Plain Language</b>
   - 14:00 "The art of storytelling in scientific papers" Gayannee Kedia ([details]({{ site.url }}/events#gkedia))
   - 15:00 “Visualization and Visual Design” Verena Resch ([details]({{ site.url }}/events#vresch))
-  - 16:00 “Science and communication” Anna D'Errico
+  - 16:00  "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language" Anna D'Errico ([details]({{ site.url }}/events#aderrico))
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Touristic twilight tour through Graz  -->
 

@@ -10,7 +10,7 @@
     time: Thu 7<sup>th</sup> April 9:00 (CEST)
   highlight: 1
   news: 
-  alertnews:  Registration for online access will open soon!
+  alertnews: 
 
 - title: "Visualization and Visual Design"
   id: vresch
@@ -24,7 +24,7 @@
     time: Tue 5<sup>th</sup> April 15:00 (CEST)
   highlight: 1
   news: 
-  alertnews:  Registration for online access will open soon!
+  alertnews: 
 
 - title: "The art of storytelling in scientific papers"
   id: gkedia
@@ -38,7 +38,7 @@
     time: Tue 5<sup>th</sup> April 14:00 (CEST)
   highlight: 1
   news:   
-  alertnews:  Registration for online access will open soon!  
+  alertnews: 
 
 
 - title: "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models"
@@ -50,10 +50,10 @@
   location:
     online: Link zu Termino
     place: Unicorn Graz, Schubertstraße 6a
-    time: Wed 5<sup>th</sup> April 14:30 (CEST)
+    time: Wed 6<sup>th</sup> April 14:30 (CEST)
   highlight: 1
   news:   
-  alertnews:  Registration for online access will open soon!  
+  alertnews: 
 
 
 
@@ -73,20 +73,17 @@
   news:   
   alertnews:  
 
-
-
-
-- title: ""
-  id: 
-  image: 
-  description: 
-  authors: 
-  about: 
+- title: "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language"
+  id: aderrico
+  image: AnnaDErrico.jpg
+  description: The seminar will provide basic principles of storytelling applied to science, science communication and practical tools for writing and speaking in plain language to a large variate audience. We will use practical example and a hands-on approach.
+  authors: Anna D’Errico
+  about: Neuroscientist, turned science writer and science communicator. Published author, contributor to scientific magazines such Mind and Le Scienze (the Italian edition of the Scientific American) and curator of science communication and presentation workshop and classes for the Grade Brain program of the Goethe Universität in Frankfurt am Main (DE) and other centers. 
   location:
     online: Link zu Termino
-    place: Unicorn Graz, Schubertstraße 6a
-    time: Wed 5<sup>th</sup> April 14:30 (CEST)
-  highlight: 0
+    place: online via UniTube
+    time: Tue 5<sup>th</sup> April 16:00 (CEST)
+  highlight: 1
   news:   
   alertnews:  
 

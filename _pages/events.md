@@ -37,7 +37,8 @@ permalink: /events/
 
 # Educationals and lab-visits
 
-We have planned educationals on a variety of topics such as science communication, design, and plain language, as well as data management, preregistration, and reproducibility. Furthermore, lab visits to the MRI-lab Graz, demos on how to collect data using NIRS, EEG, or VR. Further information will be summarized here.
+We have planned educationals on a variety of topics such as science communication, design, and plain language, as well as data management, preregistration, and reproducibility. Furthermore, lab visits to the MRI-lab Graz, demos on how to collect data using NIRS, EEG, or VR. Further information and the registration for online access will be available soon!  
+
 
 {% assign number_printed = 0 %}
 {% for event in site.data.events %}
