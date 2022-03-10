@@ -5,20 +5,18 @@ excerpt: "schedule"
 sitemap: false
 permalink: /schedule/
 ---
-
-
 # Schedule for the BBS Springschool 2022
 
-Currently, the schedule is tentative and subject to regular updates due to the accaptance of speakers to give talks, educationals, or tours. If you are interested to present your work related to the general topic of the BBS Springschool or are willing to give an educational class please [contact the committee]({{ site.url }}/contact) as soon as possible.
+Currently, the schedule is tentative and subject to regular updates due to the acceptance of speakers to give talks, educationals, or tours. If you are interested to present your work related to the general topic of the BBS Springschool or are willing to give an educational class please [contact the committee]({{ site.url }}/contact) as soon as possible.
 
 ### Tuesday (5<sup>th</sup> of April):
 - 09:00 &ndash; 09:30 Welcome and Registration
 - 09:30 &ndash; 10:00 Introduction to Springschool and presentation of venue and projects
 - 10:00 &ndash; 17:00 Time to work on your projects
 - 14:00 &ndash; 17:00 <b>Science Communication, Design and and Plain Language</b>
-  - 15:00 “Visualization and Visual Design” Verena Resch ([details]({{ site.url }}/events#educationals-and-lab-visits))
-<!-- “Scientific Writing - Do’s and Don’ts” Gayannee Kedia -->
-<!-- “Plain Language” Anna D'Errico-->
+  - 14:00 "The art of storytelling in scientific papers" Gayannee Kedia ([details]({{ site.url }}/events#gkedia))
+  - 15:00 “Visualization and Visual Design” Verena Resch ([details]({{ site.url }}/events#vresch))
+  - 16:00 “Science and communication” Anna D'Errico
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Touristic twilight tour through Graz  -->
 
@@ -26,9 +24,10 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
 - 09:00 &ndash; 11:00 MRI-Lab Graz (Lab-Visit and Demo)
-- 14:00 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
-<!-- “Agent based modelling” Marie Kapeller-->
-<!-- "Educational HPC"-->
+- 13:30 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
+<!-- 13:30 “Agent based modelling” Marie Kapeller-->
+  - 14:30 "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models" Lei Zhang ([details]({{ site.url }}/events#lzhang))
+<!-- 15:00 "Educational HPC" Huan Chen-->
 - 17:00 &ndash; 18:00 Unconference
 - 19:00 Keynote <b>"Explanation and prediction of cultural change"</b> by Igor Grossmann [(further information plus registration)]({{ site.url}}/igrossmann)
 
@@ -36,9 +35,9 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
 - 09:00 &ndash; 12:30 <b>Reproducibility in Science</b>
-  - 09:00 "Research Data Management to make your data FAIR" Sarah Styeck ([details]({{ site.url }}/events#educationals-and-lab-visits))
-- 13:00 &ndash; 14:30 NIRS-Lab Graz (Lab-Visit and Demo)
-- 14:00 &ndash; 17:00 Life after Academia
+  - 09:00 "Research Data Management to make your data FAIR" Sarah Stryeck ([details]({{ site.url }}/events#sstryeck))
+- 13:00 &ndash; 14:30 "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial" Thomas Kanatschnig  ([details]({{ site.url }}/events#tkanatschnig))
+- 14:00 &ndash; 17:00 <b>Life after Academia</b>
 - 16:00 &ndash; 17:30 EEG/VR Lab Graz (Lab-Visit and Demo)
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Dinner at a fancy place -->

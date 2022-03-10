@@ -1,7 +1,8 @@
 - title: "Research Data Management to make your data FAIR"
+  id: sstryeck
   image: sstryeck.jpg
   description: Research Data Management (RDM) is key to ensure FAIR (findable, accessible, interoperable and reusable) data. This will help to make your research reproducible and to ensure high quality results. In this session, we'll cover all topics around the data lifecycle to see where a researcher needs to think about RDM and we'll present tools that can be used for RDM. 
-  authors: Sarah Stryeck PhD
+  authors: Sarah Stryeck
   about: Sarah Stryeck is working as Senior Researcher at Know-Center, PostDoc at TU Graz and Data Steward in the Data Intelligence Initiative. Sarah did her PhD in Integrative Structural Biology and specialized afterwards in the topics data platforms and responsible AI.
   location:
     online: Link zu Termino
@@ -12,9 +13,10 @@
   alertnews:  Registration for online access will open soon!
 
 - title: "Visualization and Visual Design"
+  id: vresch
   image: Verena_Resch.jpg
   description: Contrary to a common believe, design is not only about making things pretty. However, design is supposed to be functional (with beauty being a side effect). Let's explore what's the difference between design and decoration and how we can use fonts, colours and current design trends to our advantage.
-  authors: Verena Resch PhD
+  authors: Verena Resch
   about: Verena Resch studied biochemistry and molecular biology at the Uni Graz. After finishing her PhD, she worked as a PostDoc in the Netherlands (TU Delft) and the Uni Graz. In 2016 she decided to leave academia and work as a freelance scientific designer making use of her second education in graphics and media design. Since 2021 she is in charge of the visual communication at the bioinformatics company Innophore GmbH.
   location:
     online: Link zu Termino
@@ -23,3 +25,70 @@
   highlight: 1
   news: 
   alertnews:  Registration for online access will open soon!
+
+- title: "The art of storytelling in scientific papers"
+  id: gkedia
+  image: Kedia.jpg
+  description: Would you like to know how to captivate the readers of your paper? You need to tell them an interesting story. Stories are not just on Netflix and in Harry Potter books; they are an integral part of the scientific articles you write. In this talk, you will learn all about the art of scientific storytelling.  
+  authors: Gayannée Kedia
+  about: Gayannée Kedia is a researcher in psychology and neuroscience at the University of Graz. She owns degrees in biology and psychology and has worked for several universities in France, the UK, Germany, and Austria. Parallel to her academic activity, she works as a scientific writing coach. She is also the founder of <a href="https://abrilliantmind.blog/" target="_blank">abrilliantmind.blog</a>, a blog aimed at helping scientists be more productive and happier in their professional activity.
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Tue 5<sup>th</sup> April 14:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  Registration for online access will open soon!  
+
+
+- title: "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models"
+  id: lzhang
+  image: LeiZhang.jpg
+  description: One of the core symptoms of autism is repetitive behavior, which is likely to be underpinned by cognitive inflexibility, i.e., the deficit in responding to changes in the environment. I will showcase how to measure flexible behavior with a probabilistic learning task, and how to quantify the suboptimal learning in autism using simple reinforcement learning models, under the hierarchical Bayesian analysis framework.
+  authors: Lei Zhang
+  about: Lei Zhang is a senior research fellow at the Social Cognitive and Affective Neuroscience Unit, University of Vienna, Austria. He studied psychology in China and obtained his PhD in Cognitive Neuroscience (summa cum laude) from the University Medical Center Hamburg-Eppendorf, Germany. He has been focusing on the neurocomputational mechanisms of flexible learning and decision-making in both health and disease. He has received the Rising Star Award from the Association for Psychological Science, and the Trainee Professional Development Award from Society for Neuroscience. <br> Personal website <a href="https://lei-zhang.net/" target="_blank">https://lei-zhang.net</a>.
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Wed 5<sup>th</sup> April 14:30 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  Registration for online access will open soon!  
+
+
+
+
+
+- title: "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial"
+  id: tkanatschnig
+  image: tkanatschnig.jpg
+  description: In this 60-90 min demonstration, the goal is to give interested participants a basic introduction to the acquisition and analysis of functional near-infrared spectroscopy (fNIRS) data. A short presentation about the methodological principles of fNIRS is followed by a live data acquisition session and subsequent inspection of the data with the open-source analysis software “HOMER” [https://openfnirs.org](https://openfnirs.org/){:target="_blank"}. 
+  authors: Thomas Kanatschnig
+  about: Thomas Kanatschnig studied psychology at the University of Graz and graduated in January 2021. The topic of his master’s thesis contained the evaluation of sensorimotor activation patterns during basketball dribbling and its effects on creative ability with functional near-infrared spectroscopy (fNIRS). Since March 2021 he is a university assistant at the department of Neuropsychology & Neuroimaging of the University of Graz. Since October 2021 he is also a PhD-student at the COLIBRI section of the University of Graz. 
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Thu 6<sup>th</sup> April 13:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
+
+
+
+
+- title: ""
+  id: 
+  image: 
+  description: 
+  authors: 
+  about: 
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Wed 5<sup>th</sup> April 14:30 (CEST)
+  highlight: 0
+  news:   
+  alertnews:  
+
+
+

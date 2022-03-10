@@ -49,8 +49,8 @@ We have planned educationals on a variety of topics such as science communicatio
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
- <div class="well">
+<div class="col-sm-6 clearfix" id="{{ event.id }}">
+ <div class="well" >
   <eventtitle>{{ event.title }}</eventtitle>
   <p>{{ event.description }}</p>
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/{{ event.image }}" class="img-responsive" width="25%" style="float: left" />
