@@ -26,7 +26,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 09:00 &ndash; 11:00 MRI-Lab Graz (Lab-Visit and Demo)
 - 09:00 &ndash; 11:00 "Computational Modelling in Microbiom Research"
 - 13:30 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
-<!-- 13:30 “Agent based modelling” Marie Kapeller-->
+  - 13:30 “Together, not alone: A walk through the landscape of agent-based modelling” Marie Kapeller ([details]({{ site.url }}/events#mkapeller))
   - 14:30 "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models" Lei Zhang ([details]({{ site.url }}/events#lzhang))
 <!-- 15:00 "Educational HPC" Huan Chen-->
 - 17:00 &ndash; 18:00 Unconference

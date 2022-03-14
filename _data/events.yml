@@ -40,6 +40,19 @@
   news:   
   alertnews: 
 
+- title: "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language"
+  id: aderrico
+  image: AnnaDErrico.jpg
+  description: The seminar will provide basic principles of storytelling applied to science, science communication and practical tools for writing and speaking in plain language to a large variate audience. We will use practical example and a hands-on approach.
+  authors: Anna D’Errico
+  about: Neuroscientist, turned science writer and science communicator. Published author, contributor to scientific magazines such Mind and Le Scienze (the Italian edition of the Scientific American) and curator of science communication and presentation workshop and classes for the Grade Brain program of the Goethe Universität in Frankfurt am Main (DE) and other centers. 
+  location:
+    online: Link zu Termino
+    place: online via UniTube
+    time: Tue 5<sup>th</sup> April 16:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
 
 - title: "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models"
   id: lzhang
@@ -57,6 +70,19 @@
 
 
 
+- title: "Together, not alone: A walk through the landscape of agent-based modelling"
+  id: mkapeller
+  image: MarieKapeller.jpg
+  description: What are agents and why can a group of them form a system? This talk introduces the basic concepts of agent-based modeling and illustrates the diversity of agent design. Visual examples will be used to explore the modeling landscape, from agent ants foraging for sugar, to agent cars maneuvering in traffic, to agent humans responding to threats.
+  authors: Marie Kapeller
+  about: Marie Kapeller is PhD University Assistant at the Institute of Systems Science, Innovation and Sustainability Research at the University of Graz since 2020. Her focus is on network science and computational modeling with respect to ecological challenges. She is a member of Complexity of Life (COLIBRI) and Human Factor in Digital Transformation (HFDT).
+  location:
+    online: Link zu Termino
+    place: online via UniTube
+    time: Wed 6<sup>th</sup> April 13:30 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
 
 
 - title: "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial"
@@ -73,19 +99,6 @@
   news:   
   alertnews:  
 
-- title: "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language"
-  id: aderrico
-  image: AnnaDErrico.jpg
-  description: The seminar will provide basic principles of storytelling applied to science, science communication and practical tools for writing and speaking in plain language to a large variate audience. We will use practical example and a hands-on approach.
-  authors: Anna D’Errico
-  about: Neuroscientist, turned science writer and science communicator. Published author, contributor to scientific magazines such Mind and Le Scienze (the Italian edition of the Scientific American) and curator of science communication and presentation workshop and classes for the Grade Brain program of the Goethe Universität in Frankfurt am Main (DE) and other centers. 
-  location:
-    online: Link zu Termino
-    place: online via UniTube
-    time: Tue 5<sup>th</sup> April 16:00 (CEST)
-  highlight: 1
-  news:   
-  alertnews:  
 
 
 
