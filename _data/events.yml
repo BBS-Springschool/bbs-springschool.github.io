@@ -100,5 +100,19 @@
   alertnews:  
 
 
+- title: "Common challenges of microbiome data analysis"
+  id: amahnert
+  image: aMahnert.jpg
+  description: Microbiomes include a complex interaction network of microbes, their metabolites, and the host environment. These data types are often huge, but sparse. Hence, extracting meaningful information and interpretations can be quite challenging. We will present typical datasets and state-of-the art methods how to make sense out of this mess of datasets. 
+  authors: Alexander Mahnert
+  about:  I'm an university assistant at the Medical University of Graz working in the lab of Prof. Christine Moissl-Eichinger on many projects related to the human microbiome. My special expertise are genome-centric metagenomics with a special focus on the human archaeome and confined built environments. 
+  location:
+    online: Link zu Termino
+    place: Med-Uni Graz, Neue Stiftingtalstraße 6
+    time: Wed 6<sup>th</sup> April 09:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
+
 
 
