@@ -114,5 +114,17 @@
   news:   
   alertnews:  
 
-
+- title: "Meet and Greet with Electroencephalography and Virtual Reality"
+  id: lberger
+  image: lBerger.png
+  description: Being able to record and analyze brain activation is a valuable source in neuroscience to better understand human behavior. Hence, this demo should give a practical overview of electroencephalography (EEG). Also, we will discuss what role Virtual & Augmented Reality can play in neuroscientific fields of application, while we demonstrate our Virtual Reality system.
+  authors: Lisa Berger
+  about:  Lisa Berger studied psychology at the University of Graz and works as PhD University Assistant at the Department of Neuropsychology & Neuroimaging since 2021. Her research interests focus on the integration of Virtual & Augmented Reality in the EEG-neurofeedback context.
+  location:
+    online: Link zu Termino
+    place: TBA
+    time: Thu 7<sup>th</sup> April 16:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
 

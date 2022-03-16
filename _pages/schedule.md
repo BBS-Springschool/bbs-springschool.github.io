@@ -40,7 +40,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
   - 09:00 "Research Data Management to make your data FAIR" Sarah Stryeck ([details]({{ site.url }}/events#sstryeck))
 - 13:00 &ndash; 14:30 "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial" Thomas Kanatschnig  ([details]({{ site.url }}/events#tkanatschnig))
 - 14:00 &ndash; 17:00 <b>Life after Academia</b>
-- 16:00 &ndash; 17:30 EEG/VR Lab Graz (Lab-Visit and Demo)
+- 16:00 &ndash; 17:30 "Meet and Greet with Electroencephalography and Virtual Reality" Lisa Berger ([details]({{ site.url }}/events#lberger))
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Dinner at a fancy place -->
 
