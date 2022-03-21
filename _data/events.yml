@@ -77,8 +77,8 @@
   authors: Marie Kapeller
   about: Marie Kapeller is PhD University Assistant at the Institute of Systems Science, Innovation and Sustainability Research at the University of Graz since 2020. Her focus is on network science and computational modeling with respect to ecological challenges. She is a member of Complexity of Life (COLIBRI) and Human Factor in Digital Transformation (HFDT).
   location:
-    online: Link zu Termino
-    place: online via UniTube
+    online: 
+    place: Unicorn Graz, Schubertstraße 6a
     time: Wed 6<sup>th</sup> April 13:30 (CEST)
   highlight: 1
   news:   
@@ -128,3 +128,17 @@
   news:   
   alertnews: 
 
+
+- title: "Using Machine/Deep Learning in Medical Imaging for Precision Medicine"
+  id: pseeboeck
+  image: pSeeboeck.jpg
+  description: In medicine, the aim is to treat patients in an personalized and optimal way, also known as 'Precision Medicine'. This talk will shed light onto the question "How can AI help to extract new knowledge from medical imaging data?", in order to learn about diseases and improve personalized medicine. Thereby, both Machine Learnining and Deep Learning concepts as well as concrete application scenarios will be presented.
+  authors: Philipp Seeböck
+  about:  Philipp Seeböck is currently working as a Postdoctoral Researcher at the Medical University of Vienna and as Director of IT at the Vienna Reading Center. His research focus includes deep learning, unsupervised learning, anomaly detection, medical imaging and biomarker discovery as well as translational research in general.
+  location:
+    online: 
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Wed 6<sup>th</sup> April 16:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
