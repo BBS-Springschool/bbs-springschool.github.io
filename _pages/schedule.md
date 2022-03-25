@@ -24,7 +24,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
 - 09:00 &ndash; 11:00 "Common challenges of microbiome data analysis" Alexander Mahnert ([details]({{ site.url }}/events#amahnert)) followed by a Lab-Visit ([details]({{ site.url }}/events#ckumpitsch))
-- 09:00 &ndash; 11:00 MRI-Lab Graz (Lab-Visit and Demo)
+- 09:00 &ndash; 11:00 "Measuring neuronal activation using MRI -- a visit at the MRI-Lab Graz" Karl Koschutnig ([details]({{ site.url }}/events#kkoschutnig))
 - 13:30 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
   - 13:30 “Together, not alone: A walk through the landscape of agent-based modelling” Marie Kapeller ([details]({{ site.url }}/events#mkapeller))
   - 14:30 "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models" Lei Zhang ([details]({{ site.url }}/events#lzhang))
@@ -38,6 +38,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
 - 09:00 &ndash; 12:30 <b>Reproducibility in Science</b>
   - 09:00 "Research Data Management to make your data FAIR" Sarah Stryeck ([details]({{ site.url }}/events#sstryeck))
+  - 10:00 "Preregistration for Beginners" Hilmar Brohmer ([details]({{ site.url }}/events#hbrohmer))
 - 13:00 &ndash; 14:30 "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial" Thomas Kanatschnig  ([details]({{ site.url }}/events#tkanatschnig))
 - 14:00 &ndash; 17:00 <b>Life after Academia</b>
 - 16:00 &ndash; 17:30 "Meet and Greet with Electroencephalography and Virtual Reality" Lisa Berger ([details]({{ site.url }}/events#lberger))
@@ -46,5 +47,8 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 
 ### Friday (8<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast and Coffee
-- 09:00 &ndash; 12:00 Thematic Talks
+- 09:00 &ndash; 12:00 <b>Thematic Talks "Change!"</b>
+  - 10:00 "Understanding educational games: Multimodal investigations of cognitive and emotional factors when learning with games" Manuel Ninaus  ([details]({{ site.url }}/events#mninaus))
+  - 11:00 "Behavioral Change from a Psychological Point of View" Dietrich Albert  ([details]({{ site.url }}/events#dalbert))
+
 - 12:00 &ndash; 13:00 Wrap-Up and Project Presentations

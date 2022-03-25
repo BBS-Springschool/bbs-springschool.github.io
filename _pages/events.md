@@ -10,21 +10,21 @@ permalink: /events/
 
 <div class="col-sm-12">
   <div class="well">
-  <h2>Keynote: "Explanation and prediction of cultural change"</h2>
+  <h2>Keynote Lecture: "Explanation and prediction of cultural change"</h2>
   <img src="{{ site.url }}{{ site.baseurl }}/images/events/igrossmann.jpeg" class="img-responsive" width="33%" style="float: right" />
   
   <ul style="list-style-type:none">
     <li><h3>Igor Grossmann Ph.D</h3></li>
     <li>Director, Wisdom and Culture Laboratory</li>
     <li>University of Waterloo, Canada</li>
-    <!-- <li><a href="https://igorgrossmann.com/" target="_blank">https://igorgrossmann.com/</a></li> -->
+    <li><a href="https://igorgrossmann.com/" target="_blank">https://igorgrossmann.com/</a></li>
   </ul>
 <p>&nbsp;</p>
 <p><strong>Date:</strong> Wednesday April 6<sup>th</sup>, 7pm (CEST)<br>
 <strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
 <strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
 
- <p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is mandatory</strong>. <a href="https://www.termino.gv.at/meet/b/54bf693805927c350a4673a3d7f42ad3-116375" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
+ <p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/54bf693805927c350a4673a3d7f42ad3-116375" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
 
   <p><strong>CoVID-19 **Measures**:</strong> Access is only possible with a valid 2.5 G proof. FFP2 masks have to be worn strictly all time.</P>
 
@@ -35,10 +35,47 @@ permalink: /events/
 
 <p>&nbsp;</p>
 
-# Educationals and lab-visits
+## Thematic talks “CHANGE: How to measure, detect, and quantify change reliably.”
 
-We have planned educationals on a variety of topics such as science communication, design, and plain language, as well as data management, preregistration, and reproducibility. Furthermore, lab visits to the MRI-lab Graz, demos on how to collect data using NIRS, EEG, or VR. Further information and the registration for online access will be available soon!  
+<div class="col-sm-12">
+  <div class="well">
+  <eventtitle id="mninaus">"Understanding educational games: Multimodal investigations of cognitive and emotional factors when learning with games"</eventtitle>
+  <p>Educational games have become a popular and effective approach for learning and can augment traditional instruction. However, the underlying mechanisms by which games engage learners and promote learning are still unclear. In the current talk, I will focus on the use of multimodal measures to investigate cognitive and emotional factors when learning with games.  
+ </p>
+   <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mninaus.jpg" class="img-responsive" width="12.5%" style="float: left" />
+  <eventauthor>Manuel Ninaus, University of Graz, Austria </eventauthor><br>
+   Manuel Ninaus is Tenure Track Professor of Digital Technologies and Psychology at the University of Graz where he heads the Digital Psychology Lab. His research interests include educational technologies and learning analytics. For several years, Manuel Ninaus was elected board member of the Serious Games Society and he is currently chairing the Special Interested Group Serious Games and Gamification at the European Association for Technology-Enhanced Learning.</p>
+  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 10am (CEST)<br>
+<strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
+<strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
+<p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
+ </div>
+</div>
+<p>&nbsp;</p>
+<div class="col-sm-12">
+  <div class="well">
+  <eventtitle id="dalbert">"Behavioral Change from a Psychological Point of View"</eventtitle>
+  <p>Starting from the fundamental questions of what the terms behavior and behavior change mean in psychology, we briefly go into how to model adaptive assessment of knowledge and competence. Then we will turn to the possibilities of technology-enhanced learning for improving knowledge and competences, and consider the relationship between knowledge and behavior. The question on how to reduce the knowledge-behavior gap is important. Finally, further psychological challenges and open questions will briefly be brought forward for discussion </p>
+  
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/dAlbert.jpg" class="img-responsive" width="12.5%" style="float: left" />
+  <eventauthor>Dietrich Albert, University of Graz, Austria </eventauthor><br>
+   Dietrich Albert is a psychologist, cognitive scientist, and the CSS chair person. His research is focusing on cognitive modeling; learning and memory processes; choice processes and decision making; knowledge, competences and skills; adaptivity in technology enhanced learning; and on methodology.</p>
 
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mBedek.jpg" class="img-responsive" width="12.5%" style="float: right" />
+  <eventauthor>Michael A. Bedek, University of Graz, Austria </eventauthor><br>
+  Michael A. Bedek is a psychologist and cognitive scientist. His main research interests and activities are in cognitive biases assessment and mitigation, the mathematical modelling of cognitive processes, and the support of learning and behavioral change via technology-enhanced learning applications.</p>
+  
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/jMosbacher.jpg" class="img-responsive" width="12.5%" style="float: left" />
+  <eventauthor>Jochen A. Mosbacher, University of Graz, Austria </eventauthor><br>
+  Jochen A. Mosbacher is a psychologist and neuroscientist. His main research areas are in cognitive science and educational neuroscience, focusing on the possibilities of brain stimulation supported learning and technology supported assessment and improvement of mental health.</p>
+
+  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 11am (CEST)<br>
+<strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
+<strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
+<p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
+ </div>
+</div>
+## Educationals and lab-visits
 
 {% assign number_printed = 0 %}
 {% for event in site.data.events %}

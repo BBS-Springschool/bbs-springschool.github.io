@@ -12,6 +12,20 @@
   news: 
   alertnews: 
 
+- title: "Preregistration for Beginners"
+  id: hbrohmer
+  image: hBrohmer.png
+  description: In this hands-on workshop, I will briefly introduce the concept of preregistration and show different templates. Moreover, I will go through a submitted preregistration step by step and encourage participants to create their first preregistration during the workshop. Participants should come with a concrete study idea in mind.
+  authors: Hilmar Brohmer
+  about: Hilmar Brohmer studied social and behavioral sciences in Halle (Saale), Frankfurt (Main), Oslo, and Tilburg in the Netherlands. He graduated with a PhD at the University of Graz in Social Psychology in 2020. His research focusses on open science practices, as well as social cognition, environmental psychology, and evolutionary psychology.
+  location:
+    online: Link zu Termino
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Thu 7<sup>th</sup> April 10:00 (CEST)
+  highlight: 1
+  news: 
+  alertnews: 
+
 - title: "Visualization and Visual Design"
   id: vresch
   image: Verena_Resch.jpg
@@ -139,6 +153,21 @@
     online: 
     place: Unicorn Graz, Schubertstraße 6a
     time: Wed 6<sup>th</sup> April 16:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
+
+
+- title: "Measuring neuronal activation using MRI -- a visit at the MRI-Lab Graz"
+  id: kkoschutnig
+  image: kkoschutnig.jpg
+  description: Following a short presentation of the MRT-Lab facitilty, we will discuss the possibilities and problems of measuring neuronal activity using magnetic resonance imaging. We will then run a short demonstration of an MRI measurement using a current study as an example.
+  authors: Karl Koschutnig
+  about:  Karl Koschutnig is the coordinator of all studies concerning (f)MRI at the MRI-Lab Graz. He is working as a Senior Scientist to unfold processes and mechanisms related to aerobic and postural control interventions on specific properties of grey and white matter in the brain. For example, he investigated structural brain changes after learning to ride a unicycle. 
+  location:
+    online: 
+    place: MRI-Lab @ Kopernikusgasse 24 (Technische Universität Graz - „neue Technik“)
+    time: Wed 6<sup>th</sup> April 09:00 (CEST)
   highlight: 1
   news:   
   alertnews: 
