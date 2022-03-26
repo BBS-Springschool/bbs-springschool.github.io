@@ -28,7 +28,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 - 13:30 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
   - 13:30 “Together, not alone: A walk through the landscape of agent-based modelling” Marie Kapeller ([details]({{ site.url }}/events#mkapeller))
   - 14:30 "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models" Lei Zhang ([details]({{ site.url }}/events#lzhang))
-  - 16:00 "Using Machine/Deep Learning in Medical Imaging for Precision Medicine" Philipp Seeböck ([details]({{ site.url }}/events#pseeboeck)) 
+  - 16:30 "Using Machine/Deep Learning in Medical Imaging for Precision Medicine" Philipp Seeböck ([details]({{ site.url }}/events#pseeboeck)) 
 <!-- 15:00 "Educational HPC" Huan Chen-->
 - 17:00 &ndash; 18:00 Unconference
 - 19:00 Keynote <b>"Explanation and prediction of cultural change"</b> by Igor Grossmann [(further information plus registration)]({{ site.url}}/igrossmann)
