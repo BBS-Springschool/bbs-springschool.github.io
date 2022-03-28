@@ -7,13 +7,13 @@ permalink: /schedule/
 ---
 # Schedule for the BBS Springschool 2022
 
-Currently, the schedule is tentative and subject to regular updates due to the acceptance of speakers to give talks, educationals, or tours. If you are interested to present your work related to the general topic of the BBS Springschool or are willing to give an educational class please [contact the committee]({{ site.url }}/contact) as soon as possible.
+The final schedule, yet still a bit tentative and subject to change. If you are interested to present your work related to the general topic of the BBS Springschool within one of the Unconference session, please [contact the committee]({{ site.url }}/contact).
 
 ### Tuesday (5<sup>th</sup> of April):
 - 09:00 &ndash; 09:30 Welcome and Registration
 - 09:30 &ndash; 10:00 Introduction to Springschool and presentation of venue and projects
 - 10:00 &ndash; 17:00 Time to work on your projects
-- 14:00 &ndash; 17:00 <b>Science Communication, Design and and Plain Language</b>
+- 14:00 &ndash; 17:00 <b>Science Communication, Design and Plain Language</b>
   - 14:00 "The art of storytelling in scientific papers" Gayannee Kedia ([details]({{ site.url }}/events#gkedia))
   - 15:00 “Visualization and Visual Design” Verena Resch ([details]({{ site.url }}/events#vresch))
   - 16:00  "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language" Anna D'Errico ([details]({{ site.url }}/events#aderrico))
@@ -30,7 +30,6 @@ Currently, the schedule is tentative and subject to regular updates due to the a
   - 14:30 "Flexible behavior under uncertainty in autism spectrum disorders through the lens of simple reinforcement learning models" Lei Zhang ([details]({{ site.url }}/events#lzhang))
   - 16:30 "Using Machine/Deep Learning in Medical Imaging for Precision Medicine" Philipp Seeböck ([details]({{ site.url }}/events#pseeboeck)) 
 <!-- 15:00 "Educational HPC" Huan Chen-->
-- 17:00 &ndash; 18:00 Unconference
 - 19:00 Keynote <b>"Explanation and prediction of cultural change"</b> by Igor Grossmann [(further information plus registration)]({{ site.url}}/igrossmann)
 
 ### Thursday (7<sup>th</sup> of April):
@@ -47,7 +46,7 @@ Currently, the schedule is tentative and subject to regular updates due to the a
 
 ### Friday (8<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast and Coffee
-- 09:00 &ndash; 12:00 <b>Thematic Talks "Change!"</b>
+- 09:00 &ndash; 12:00 <b>Symposium "Change"</b>
   - 10:00 "Understanding educational games: Multimodal investigations of cognitive and emotional factors when learning with games" Manuel Ninaus  ([details]({{ site.url }}/events#mninaus))
   - 11:00 "Behavioral Change from a Psychological Point of View" Dietrich Albert  ([details]({{ site.url }}/events#dalbert))
 
