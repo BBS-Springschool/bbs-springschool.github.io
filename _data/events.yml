@@ -98,6 +98,21 @@
   news:   
   alertnews:  
 
+- title: "Game theory: a mathematical toolkit for the analysis of strategic interaction"
+  id: ckuzmics
+  image: christophkuzmicsphoto.jpg
+  description: Game Theory provides a large toolkit to help us understand strategic interaction, between humans, between animals, even between plants or computers. I will explain the underlying principles of game theory and explain how it can be applied by means of an example of what level of cognitive empathy one would expect people to have in conflict situations. 
+  authors: Christoph Kuzmics
+  about: Christoph Kuzmics is interested in the theory of strategic thinking. He is a Professor for Microeconomics since 2015 and a member of the profile-forming area Complexity of Life (COLIBRI) at the University of Graz. After completing his doctorate in economics at the University of Cambridge in 2004, Kuzmics was an assistant professor at the Kellogg School of Management, Northwestern University until 2011 and a professor at the University of Bielefeld from 2011 to 2015.
+  location:
+    online: 
+    place: Unicorn Graz, Schubertstraße 6a
+    time: Wed 6<sup>th</sup> April 15:30 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
+
+
 
 - title: "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial"
   id: tkanatschnig
