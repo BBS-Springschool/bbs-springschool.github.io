@@ -136,9 +136,25 @@
   authors: Alexander Mahnert
   about:  I'm an university assistant at the Medical University of Graz working in the lab of Prof. Christine Moissl-Eichinger on many projects related to the human microbiome. My special expertise are genome-centric metagenomics with a special focus on the human archaeome and confined built environments. 
   location:
-    online: Link zu Termino
-    place: Med-Uni Graz, Neue Stiftingtalstraße 6
+    online: 
+    place: Unicorn Graz, Schubertstraße 6a
     time: Wed 6<sup>th</sup> April 09:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews:  
+
+
+
+- title: "Basics of the wet lab in microbiome research - From sampling to raw data."
+  id: ckumpitsch
+  image: ckumpitsch.png
+  description: We are offering a guided tour through our microbiome wet lab at the Medical University of Graz. Come and learn more about the practical site of microbiome research and find out where and how we cultivate not only some of the bacterial but also the often overseen archaeal inhabitants of the human body. 
+  authors: Christina Kumpitsch
+  about:  Her main research interest lies on the microbiome and its role in health and disease. In her projects she investigates the microbial community composition located at different body parts including the nasal cavity and the gut. Notably, she does not only focus on the bacterial but also on the often overlooked archaeal community.
+  location:
+    online: 
+    place: Meeting at Unicorn Graz, Schubertstraße 6a
+    time: Wed 6<sup>th</sup> April 10:30 (CEST)
   highlight: 1
   news:   
   alertnews:  

@@ -23,7 +23,7 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
 ### Wednesday (6<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
 - 09:00 &ndash; 17:00 Open Hacking intermixed with educationals
-- 09:00 &ndash; 11:00 "Common challenges of microbiome data analysis" Alexander Mahnert ([details]({{ site.url }}/events#amahnert)) followed by a Lab-Visit ([details]({{ site.url }}/events#ckumpitsch))
+- 09:00 &ndash; 11:00 "Common challenges of microbiome data analysis" Alexander Mahnert ([details]({{ site.url }}/events#amahnert)) followed by a Lab-Visit <br>"Basics of the wet lab in microbiome research - From sampling to raw data." ([details]({{ site.url }}/events#ckumpitsch))
 - 09:00 &ndash; 11:00 "Measuring neuronal activation using MRI -- a visit at the MRI-Lab Graz" Karl Koschutnig ([details]({{ site.url }}/events#kkoschutnig))
 - 13:30 &ndash; 17:00 <b>Modelling Brain, Behavior & Society</b>
   - 13:30 “Together, not alone: A walk through the landscape of agent-based modelling” Marie Kapeller ([details]({{ site.url }}/events#mkapeller))
