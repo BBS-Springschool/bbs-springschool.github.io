@@ -47,6 +47,7 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
 ### Friday (8<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast and Coffee
 - 09:00 &ndash; 12:00 <b>Symposium "Change"</b>
+  - 09:00 "Predicting Change in Integrated Information - on the example of Early Warning Signals in assortative spin-shifting networks" Manfred Füllsack ([details]({{ site.url }}/events#mfuellsack))
   - 10:00 "Understanding educational games: Multimodal investigations of cognitive and emotional factors when learning with games" Manuel Ninaus  ([details]({{ site.url }}/events#mninaus))
   - 11:00 "Behavioral Change from a Psychological Point of View" Dietrich Albert  ([details]({{ site.url }}/events#dalbert))
 

@@ -37,6 +37,24 @@ permalink: /events/
 
 ## Thematic talks “CHANGE: How to measure, detect, and quantify change reliably.”
 
+
+<div class="col-sm-12">
+  <div class="well">
+  <eventtitle id="mninaus">"Predicting Change in Integrated Information - on the example of Early Warning Signals in assortative spin-shifting networks"</eventtitle>
+  <p>From a systems science perspective, there is reason to assume that abrupt perceptual changes - e.g. the sudden shift from seeing a black patch to seeing a white one - are caused by an integrated interaction of neurons, never by a mere aggregation of neurons in isolated activity. Therefore, to explore the possibilities for predicting such changes, one needs to consider social or network effects. The talk will present possibilities for such considerations, demonstrate statistical prediction methods and discuss some of their caveats.
+ </p>
+   <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mfuellsack.jpg" class="img-responsive" width="12.5%" style="float: left" />
+  <eventauthor>Manfred Füllsack, University of Graz, Austria </eventauthor><br>
+   Manfred Füllsack is professor for systems sciences at the Institute of Systems Sciences, Innovation and Sustainability Research . His expertise is in the field of Complex Systems, Networks, Games, Systems modeling, and Social economic and ecological aspects of work</p>
+  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 9am (CEST)<br>
+<strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
+<strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
+<p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
+ </div>
+</div>
+
+<p>&nbsp;</p>
+
 <div class="col-sm-12">
   <div class="well">
   <eventtitle id="mninaus">"Understanding educational games: Multimodal investigations of cognitive and emotional factors when learning with games"</eventtitle>
