@@ -38,9 +38,9 @@ permalink: /events/
 ## Thematic talks “CHANGE: How to measure, detect, and quantify change reliably.”
 
 
-<div class="col-sm-12">
+<div class="col-sm-12" id="˚>
   <div class="well">
-  <eventtitle id="mninaus">"Predicting Change in Integrated Information - on the example of Early Warning Signals in assortative spin-shifting networks"</eventtitle>
+  <eventtitle id="mfuellsack">"Predicting Change in Integrated Information - on the example of Early Warning Signals in assortative spin-shifting networks"</eventtitle>
   <p>From a systems science perspective, there is reason to assume that abrupt perceptual changes - e.g. the sudden shift from seeing a black patch to seeing a white one - are caused by an integrated interaction of neurons, never by a mere aggregation of neurons in isolated activity. Therefore, to explore the possibilities for predicting such changes, one needs to consider social or network effects. The talk will present possibilities for such considerations, demonstrate statistical prediction methods and discuss some of their caveats.
  </p>
    <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mfuellsack.jpg" class="img-responsive" width="12.5%" style="float: left" />
