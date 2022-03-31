@@ -20,7 +20,7 @@ permalink: /events/
     <li><a href="https://igorgrossmann.com/" target="_blank">https://igorgrossmann.com/</a></li>
   </ul>
 <p>&nbsp;</p>
-<p><strong>Date:</strong> Wednesday April 6<sup>th</sup>, 7pm (CEST)<br>
+<p><strong>Date:</strong> Wednesday, April 6<sup>th</sup>, 7pm (CEST)<br>
 <strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
 <strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
 
@@ -46,7 +46,7 @@ permalink: /events/
    <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mfuellsack.jpg" class="img-responsive" width="12.5%" style="float: left" />
   <eventauthor>Manfred Füllsack, University of Graz, Austria </eventauthor><br>
    Manfred Füllsack is professor for systems sciences at the Institute of Systems Sciences, Innovation and Sustainability Research . His expertise is in the field of Complex Systems, Networks, Games, Systems modeling, and Social economic and ecological aspects of work</p>
-  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 9am (CEST)<br>
+  <p><strong>Date:</strong> Friday, April 8<sup>th</sup>, 9am (CEST)<br>
 <strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
 <strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
 <p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
@@ -63,7 +63,7 @@ permalink: /events/
    <p><img src="{{ site.url }}{{ site.baseurl }}/images/events/mninaus.jpg" class="img-responsive" width="12.5%" style="float: left" />
   <eventauthor>Manuel Ninaus, University of Graz, Austria </eventauthor><br>
    Manuel Ninaus is Tenure Track Professor of Digital Technologies and Psychology at the University of Graz where he heads the Digital Psychology Lab. His research interests include educational technologies and learning analytics. For several years, Manuel Ninaus was elected board member of the Serious Games Society and he is currently chairing the Special Interested Group Serious Games and Gamification at the European Association for Technology-Enhanced Learning.</p>
-  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 10am (CEST)<br>
+  <p><strong>Date:</strong> Friday, April 8<sup>th</sup>, 10am (CEST)<br>
 <strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
 <strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
 <p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
@@ -87,7 +87,7 @@ permalink: /events/
   <eventauthor>Jochen A. Mosbacher, University of Graz, Austria </eventauthor><br>
   Jochen A. Mosbacher is a psychologist and neuroscientist. His main research areas are in cognitive science and educational neuroscience, focusing on the possibilities of brain stimulation supported learning and technology supported assessment and improvement of mental health.</p>
 
-  <p><strong>Date:</strong> Wednesday April 8<sup>th</sup>, 11am (CEST)<br>
+  <p><strong>Date:</strong> Friday, April 8<sup>th</sup>, 11am (CEST)<br>
 <strong>Location:</strong> <a href="https://campusplan.uni-graz.at/0002EG0048" target="_blank">HS 02.01, Universitätsplatz 2</a> and 
 <strong> online </strong> via <a href="https://unitube.uni-graz.at/" target="_blank">UniTube Graz</a></p>
 <p><strong>Registration:</strong> Due to the still ongoing CoVID-pandemic <strong>registration for this event is requested</strong>. <a href="https://www.termino.gv.at/meet/b/40be23648160aa6f5724bcb84694b995-121332" target="_blank">Please register here.</a> Online participants will receive a link to the online event shortly beforehand.</p>
