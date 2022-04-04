@@ -19,8 +19,8 @@ This topic is inspired by the CoVID-pandemic that consistently changed the world
 
 ### Important date:
 
-- **1<sup>st</sup> of March Registration and project submission opens**
-- **1<sup>st</sup> of April Deadline to register and/or submit a project**
+- **1<sup>st</sup> of March Registration and project submission opens** 
+- **4<sup>st</sup> of April Extended deadline to register and/or submit a project**
 - **5<sup>th</sup> - 8<sup>th</sup> of April 2022 Springschool**
   
 ### Location (in person version):

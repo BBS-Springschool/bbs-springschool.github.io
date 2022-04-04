@@ -17,7 +17,7 @@ You have a good idea and want to work on it ,possibly, together with others? Sub
 Following project submission, check out the advices and suggestions curated from the many previous years’ project leaders and attendees as the best practices of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time.
 
 
-<!-- ## Already submitted projects  
+## Submitted projects  (more to come)
 
 {% assign number_printed = 0 %}
 {% for project in site.data.projectlist %}
@@ -29,26 +29,19 @@ Following project submission, check out the advices and suggestions curated from
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ project.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/project_pic/{{ project.image }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/project_pic/{{ project.image }}" class="img-responsive" width="12%" style="float: left" />
   <p>{{ project.description }}</p>
   <p><em>{{ project.authors.name }} ({{ project.authors.mail }})</em></p>
   <p class="text-danger"><strong> {{ project.news1 }}</strong></p>
   <p> {{ project.news2 }}</p>
   <p>
-  <center>
-  <strong>
-  {% if project.link.url %}<a href="{{ project.link.url }}">Project site</a>{% endif %}
-  {% if project.link.url and project.link.github %} | {% endif %}
-  {% if project.link.github %}<a href="{{ project.link.github }}">Github site</a>{% endif %}
-  {% if project.link.url and project.link.mattermost %} | {% endif %}
-  {% if project.link.mattermost %} <a href="{{ project.link.mattermost }}">Mattermost</a>{% endif %}
-  {% if project.link.channel and project.link.mattermost %} | {% endif %}
-  {% if project.link.channel %} <a href="{{ project.link.channel-ling }}">{{ project.link.channel }}</a>{% endif %}
+  <!-- <center> -->
+  <strong> Location: {% if project.link.location %}{{ project.link.location }}{% endif %}  via {% if project.link.url %}<a href="{{ project.link.url }}">Project site</a>{% endif %}{% if project.link.url and project.link.github %} | {% endif %}{% if project.link.github %}<a href="{{ project.link.github }}">Github site</a>{% endif %}{% if project.link.url and project.link.mattermost %} | {% endif %}{% if project.link.mattermost %} <a href="{{ project.link.mattermost }}">Mattermost</a>{% endif %}{% if project.link.channel and project.link.mattermost %} | {% endif %}{% if project.link.channel %} <a href="{{ project.link.channel-link }}">{{ project.link.channel }}</a>{% endif %}
   </strong>
-  </center>
+  <!-- </center> -->
   </p>
  </div>
 </div>

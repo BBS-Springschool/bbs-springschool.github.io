@@ -1,12 +1,29 @@
-- title: "Brain / Behaviour / Society Springschool Page"
+- title: "Crash course on R for data science"
   image: ../BBS_pngs/BBS_logo1_0222_black.png
-  description: We plan to setup a general purpose homepage for the springschool using Gitub-Pages, Jekyll and a simple template. 
+  description:  This is a crash course on how to employ R to obtain, pre-process and analyse numeric and text data. Emphasis will be given to twitter and text data, how to acquire twitter data with an API, to harvest data from useful websites using R and finally to pre-process text data in R for further analysis.
+  authors: 
+    name: Guilherme Wood
+    mail: guilherme.wood@uni-graz.at
+  link:
+    location: Onsite and remote
+    url: 
+    github: 
+    mattermost: 
+    channel: WebEx
+    channel-link:
+  highlight: 1
+
+
+- title: "MACS &ndash; Mobile Assessment of the Chemical Senses"
+  image: ../BBS_pngs/BBS_logo1_0222_black.png
+  description:  In this project, we aim to investigate chemosensory perception from a mere stimulus-percept problem perspective to build an ecological valid odor space or map. Using a smartphone app we will explore and investigate the perceptual dimensions of odor objects in relation to their pleasantness, valence, quality, familiarity and intensity as well as on the verbal descriptions, like fruity, moldy, or sour, all defining the perceptual odor space. All odor objects will be selected by the participants and registered to a central database by taking a simple picture together with a brief verbal description. This data will be automatically enriched by the current location of the participant, the time of the day and possibly the current weather (temperature, humidity, and so on).
   authors: 
     name: Florian Ph.S Fischmeister
     mail: Florian.Fischmeister@gmail.com
   link:
-    url: http://bbs-springschool.github.io
-    github: https://github.com/BBS-Springschool
+    location: onsite and remote
+    url: 
+    github: 
     mattermost: 
     channel: Zoom
   highlight: 1
