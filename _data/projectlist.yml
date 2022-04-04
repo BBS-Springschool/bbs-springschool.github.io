@@ -26,4 +26,21 @@
     github: 
     mattermost: 
     channel: Zoom
+    channel-link:
+  highlight: 1
+
+
+- title: "How to link our microbiome to personality?"
+  image: mikrobiom.jpg
+  description:  The ocean rest study combines multi-dimensional data from brain scans (MRIs), and the information on personality (OCEAN) as well as on the gut microbiome (taxonomy and functional capacity) and metabolomics. The aim would be to train a computer to learn co-associations of the microbial composition and its metabolites with brain states / connectomes, behavior  and other metadata categories.
+  authors: 
+    name: Christina Kumpitsch and Alexander Mahnert
+    mail: christina.kumpitsch@medunigraz.at
+  link:
+    location: onsite and remote
+    url: https://doi.org/10.1186/s40168-021-01130-w
+    github: 
+    mattermost: 
+    channel: WebEx
+    channel-link:
   highlight: 1
