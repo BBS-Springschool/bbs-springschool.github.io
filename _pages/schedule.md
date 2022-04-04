@@ -18,7 +18,7 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
   - 15:00 “Visualization and Visual Design” Verena Resch ([details]({{ site.url }}/events#vresch))
   - 16:00  "Simple, not rough. How to communicate your science in plain &ndash; yet accurate &ndash; language" Anna D'Errico ([details]({{ site.url }}/events#aderrico))
 - 17:00 &ndash; 18:00 Unconference
-- 18:00 &ndash; 22:00 Touristic twilight tour through Graz 
+- 18:00 &ndash; 20:00 Touristic twilight tour through Graz 
 
 ### Wednesday (6<sup>th</sup> of April):
 - 08:30 &ndash; 09:00 Breakfast with Coffee & Tea
