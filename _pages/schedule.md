@@ -52,3 +52,7 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
   - 11:00 "Behavioral Change from a Psychological Point of View" Dietrich Albert, Michael Bedek, Jochen Mosbacher  ([details]({{ site.url }}/events#dalbert))
 
 - 12:00 &ndash; 13:00 Wrap-Up and Project Presentations
+- 13:30 &ndash; 15:00 <b>Artifical Life Lab Tour</b>
+  - “Robocoenosis: Living creatures act as sensors in underwater robots for environmental monitoring” Ronald Thenius ([details]({{ site.url }}/events#rthenius))
+	- “Hiveopolis: Searching for the digital beehive of the future \dots smart beehives for smart bees.”  Matthias Becher ([details]({{ site.url }}/events#mbecher))
+  - “RoboRoyale: Queen bee + autonomous robots, tracking the queen with computer vision"  Martin Stefanec ([details]({{ site.url }}/events#mstefanec))
