@@ -93,7 +93,7 @@
   location:
     online: 
     place: Unicorn Graz, Schubertstraße 6a
-    time: Wed 6<sup>th</sup> April 13:30 (CEST)
+    time: Wed 6<sup>th</sup> April 1:30 pm (CEST)
   highlight: 1
   news:   
   alertnews:  
@@ -199,6 +199,50 @@
     online: 
     place: MRI-Lab @ Kopernikusgasse 24 (Technische Universität Graz - „neue Technik“)
     time: Wed 6<sup>th</sup> April 09:00 (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
+
+- title: "Robocoenosis: Living creatures act as sensors in underwater robots for environmental monitoring"
+  id: rthenius
+  image: rthenius.jpg
+  description: 
+  authors: Ronald Thenius
+  about: Ronald Thenius is currently coordinator of the Robocoenosis project. Since 2004 he works in the Artificial Life Lab of the University of Graz. After his Ph.D. (Biology) he has been participating in the several EU-funded projects. His main fields of research are biohybrid technology, bioinspired robotics, swarm robotics, biomimicry in robot control, with a special focus on simemould, honeybees and vertebrate neuronal systems as archetypes.
+  location:
+    online: 
+    place: Benches in front of the Universitätsplatz 2 
+    time: Fri 8<sup>th</sup> April 1:30 pm (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
+
+
+- title: "Hiveopolis: Searching for the digital beehive of the future …smart beehives for smart bees."
+  id: mbecher
+  image: mbecher.jpg
+  description: 
+  authors: Matthias Becher
+  about: Dr. Matthias Becher is a Senior Post-Doc in the Artificial Life Lab at the University of Graz. As an experienced developer of complex bee models, he is responsible for the Hiveopolis project and coordinates its modeling tasks.
+  location:
+    online: 
+    place: Benches in front of the Universitätsplatz 2 
+    time: Fri 8<sup>th</sup> April 1:30 pm (CEST)
+  highlight: 1
+  news:   
+  alertnews: 
+
+
+- title: "RoboRoyale: Queen bee + autonomous robots, tracking the queen with computer vision"
+  id: mstefanec
+  image: mstefanec.jpg
+  description: 
+  authors: Martin Stefanec
+  about: Martin Stefanec studies behavioral interactions and the resulting group effects in honey bees. Besides the mechanistic processes of these interactions, his research interest lies in the interactions between these animal behaviors and the environment in which they live.
+  location:
+    online: 
+    place: Benches in front of the Universitätsplatz 2 
+    time: Fri 8<sup>th</sup> April 1:30 pm (CEST)
   highlight: 1
   news:   
   alertnews: 
