@@ -53,6 +53,6 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
 
 - 12:00 &ndash; 13:00 Wrap-Up and Project Presentations
 - 13:30 &ndash; 15:00 <b>Artifical Life Lab Tour</b>
-  - “Robocoenosis: Living creatures act as sensors in underwater robots for environmental monitoring” Ronald Thenius ([details]({{ site.url }}/events#rthenius))
-	- “Hiveopolis: Searching for the digital beehive of the future \dots smart beehives for smart bees.”  Matthias Becher ([details]({{ site.url }}/events#mbecher))
-  - “RoboRoyale: Queen bee + autonomous robots, tracking the queen with computer vision"  Martin Stefanec ([details]({{ site.url }}/events#mstefanec))
+  - "Robocoenosis: Living creatures act as sensors in underwater robots for environmental monitoring." Ronald Thenius ([details]({{ site.url }}/events#rthenius))
+  - "Hiveopolis: Searching for the digital beehive of the future \dots smart beehives for smart bees."  Matthias Becher ([details]({{ site.url }}/events#mbecher))
+  - "RoboRoyale: Queen bee + autonomous robots, tracking the queen with computer vision."  Martin Stefanec ([details]({{ site.url }}/events#mstefanec))
