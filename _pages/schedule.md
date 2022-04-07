@@ -40,7 +40,7 @@ The final schedule, yet still a bit tentative and subject to change. If you are 
   - 10:00 "Preregistration for Beginners" Hilmar Brohmer ([details]({{ site.url }}/events#hbrohmer))
 - 13:00 &ndash; 14:30 "Getting to know Functional Near-Infrared Spectroscopy (fNIRS): A Hands-on Tutorial" Thomas Kanatschnig  ([details]({{ site.url }}/events#tkanatschnig))
 - 14:00 &ndash; 17:00 <b>Life after Academia -- unfortunately cancelled</b>
-- 16:00 &ndash; 17:30 "Meet and Greet with Electroencephalography and Virtual Reality" Lisa Berger ([details]({{ site.url }}/events#lberger))
+- 14:30 &ndash; 16:00 "Meet and Greet with Electroencephalography and Virtual Reality" Lisa Berger ([details]({{ site.url }}/events#lberger)) <B>CAVE: rescheduled</B>
 - 17:00 &ndash; 18:00 Unconference
 <!-- - 19:00 &ndash; 22:00 Dinner at a fancy place -->
 
